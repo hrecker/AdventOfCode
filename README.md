@@ -1,2 +1,4 @@
-# AdventOfCode
-Advent of code solutions
+# Advent of Code
+Advent of Code challenges
+
+https://adventofcode.com
