@@ -1,4 +1,4 @@
-def day1(input):
+def part1(input):
     count = 0
     last = -1
     for line in input:
@@ -8,7 +8,7 @@ def day1(input):
         last = next
     print(count)
 
-def day2(input):
+def part2(input):
     count = 0
     d1 = -1
     d2 = -1
@@ -28,4 +28,4 @@ def day2(input):
     print(count)
 
 with open("input.txt") as input:
-    day2(input)
+    part2(input)
